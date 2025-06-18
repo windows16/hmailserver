@@ -38,24 +38,24 @@ node+express+hmailserver/
 
 ### 1. Clonar y acceder
 
-\`\`\`bash
+```bash
 git clone https://github.com/tu-usuario/node-express-hmailserver.git
 cd node-express-hmailserver/node+express+hmailserver
-\`\`\`
+```
 
 ### 2. Instalar dependencias
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### 3. Configurar hMailServer
 
 Asegúrate de que hMailServer esté correctamente instalado en Windows. El módulo `winax` accede a objetos COM del sistema como este:
 
-\`\`\`javascript
+```javascript
 const hMailServer = new ActiveXObject("hMailServer.Application");
-\`\`\`
+```
 
 ⚠️ Ejecuta el servidor con permisos suficientes si vas a controlar servicios del sistema.
 
@@ -63,9 +63,9 @@ const hMailServer = new ActiveXObject("hMailServer.Application");
 
 ### 4. Ejecutar localmente (modo desarrollo)
 
-\`\`\`bash
+```bash
 node src/app.js
-\`\`\`
+```
 
 Accede en [http://localhost:3000](http://localhost:3000)
 
@@ -85,13 +85,12 @@ Configura un sitio IIS con la ruta al proyecto, y asegúrate de apuntar al `app.
 
 ## 📦 Dependencias clave
 
-\`\`\`json
+```json
 "dependencies": {
   "express": "^4.x",
   "winax": "^2.x"
 }
-\`\`\`
-
+```
 ---
 
 ## 🧪 Pruebas
