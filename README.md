@@ -17,7 +17,7 @@ Este proyecto es una aplicación backend construida con **Node.js** y **Express*
 
 ## 📁 Estructura del Proyecto
 
-\`\`\`
+```
 node+express+hmailserver/
 ├── 📦 node_modules/         → Librerías instaladas con `npm`
 ├── 🗂️ src/
@@ -31,9 +31,7 @@ node+express+hmailserver/
 ├── 📄 package-lock.json     → Versiones exactas de las dependencias
 ├── 📘 README.md             → Documentación del proyecto
 ├── ⚙️ web.config            → Configuración para IIS + iisnode
-
-\`\`\`
-
+```
 ---
 
 ## 🚀 Cómo Ejecutar el Proyecto
