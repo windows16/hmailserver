@@ -1,6 +1,6 @@
 # 📬 Node.js + Express + hMailServer + IIS Integration
 
-Este proyecto es una aplicación backend construida con **Node.js** y **Express**, diseñada para ejecutarse en **Windows Server** mediante **IIS** usando `iisnode`. Utiliza la librería **winax** para interactuar con **hMailServer** a través de objetos COM.
+Esta es una app web con un formulario para registrar correos, construida con **Node.js** y **Express**, diseñada para ejecutarse en **Windows Server** mediante **IIS** usando `iisnode`. Utiliza la librería **winax** para interactuar con **hMailServer** a través de objetos COM.
 
 ---
 
