@@ -1,0 +1,5 @@
+🚀 Servidor corriendo en http://localhost:\\.\pipe\b17fdba6-a0ea-4c67-87c4-256a04615678
+Conectando al COM API de hMailServer...
+✅ Autenticación exitosa
+✅ Dominio "kmail.com" encontrado.
+✅ Cuenta de correo "miamigo@kmail.com" creada exitosamente.
