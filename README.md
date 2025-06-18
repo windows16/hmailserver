@@ -36,12 +36,7 @@ node+express+hmailserver/
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
-### 1. Clonar y acceder
-
-```bash
-git clone https://github.com/tu-usuario/node-express-hmailserver.git
-cd node-express-hmailserver/node+express+hmailserver
-```
+### 1. Clona este repositorio o descarga los archivos
 
 ### 2. Instalar dependencias
 
