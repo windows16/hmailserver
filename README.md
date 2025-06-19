@@ -14,6 +14,7 @@ Esta es una app web con un formulario para registrar correos, construida con **N
 - 🧩 HTML + JS (Frontend básico)
 
 ---
+![Formulario](formulario_web.png)
 
 ## 📁 Estructura del Proyecto
 
