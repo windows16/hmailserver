@@ -18,7 +18,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Endpoint para obtener los correos desde la base de datos
 app.get('/api/info_correo', (req, res) => {
-    connection.query('SELECT accountaddress FROM hm_accounts', (err, results) => {
+    connection.query('SELECT accountaddress FROM hm_accounts where accountid = (select max(accountid) from hm_accounts)', (err, results) => {
         if (err) {
             console.error('Error en la consulta:', err.code, err.message);
             return res.status(500).json({ error: 'Error al consultar la base de datos' });
