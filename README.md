@@ -12,6 +12,7 @@ Esta es una app web con un formulario para registrar correos, construida con **N
 - 🧠 winax (ActiveX desde Node.js)
 - 🖥️ IIS + iisnode
 - 🧩 HTML + JS (Frontend básico)
+- 🛢 MySQL
 
 ---
 ![Formulario](formulario_web.png)
