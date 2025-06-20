@@ -95,7 +95,9 @@ Puedes usar la carpeta `iisnode/` para verificar errores (`stderr`) y salidas (`
 
 ---
 ## 📬 uso de cuentas
-inicia sesion en la app thunderbird con la informacion proporcionada despues de registrar tu cuenta.
+
+inicia sesion en la app thunderbird o en la que prefieras con la informacion proporcionada despues de registrar tu cuenta.
+
 ---
 
 ---
