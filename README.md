@@ -94,6 +94,9 @@ Configura un sitio IIS con la ruta al proyecto, y asegúrate de apuntar al `app.
 Puedes usar la carpeta `iisnode/` para verificar errores (`stderr`) y salidas (`stdout`) cuando el servidor esté corriendo en IIS.
 
 ---
+## 📬 uso de cuentas
+inicia sesion en la app thunderbird con la informacion proporcionada despues de registrar tu cuenta.
+---
 
 ---
 
